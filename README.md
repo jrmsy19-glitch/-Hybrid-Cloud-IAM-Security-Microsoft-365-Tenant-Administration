@@ -235,13 +235,12 @@ Figure 4.4 — Password Reset Notification Settings
 </p>
 
 
-
-
 Figure 4.5 — Administrator Authentication Policy Rules
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/90841a94-cfb3-40dc-9413-9bb0265103f9" width="850">
 </p>
+
 
 ⸻
 
@@ -272,15 +271,14 @@ Screenshots
 Figure 5.1 — Microsoft 365 Sign-In Block
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/4f28dc07-3eee-4d03-8d33-24b86140f6d7" width="850">
 </p>
 
 Figure 5.2 — Entra ID Disabled Account Validation
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/ba5fb750-7485-4a60-b370-44085375a1a1" width="850">
 </p>
-
 ⸻
 
 🔄 Cross-Portal Validation & Microsoft Cloud Integration
