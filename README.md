@@ -99,7 +99,7 @@ Figure 1.2 — Microsoft 365 Admin Center Active Users
 Figure 1.3 — Azure Portal Directory Validation
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/248e3c87-5911-40a1-8ac3-43e29d552ae3" width="850">
 </p>
 
 ⸻
@@ -134,19 +134,21 @@ Figure 2.1 — Directory Query & Filtering Configuration
 Figure 2.2 — Duluth Office User Profile
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/5931c9f2-08dc-4d13-acd9-db50bd143b15" width="850">
 </p>
+
 
 Figure 2.3 — Saint Paul Headquarters User Profile
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/f13e6a28-aecc-40a9-957c-ba7d030c8b8a" width="850">
 </p>
+
 
 Figure 2.4 — Minneapolis Office User Profile
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/6d2d94fe-d9a9-4bb5-8ce3-ba9a41c98256" width="850">
 </p>
 
 ⸻
