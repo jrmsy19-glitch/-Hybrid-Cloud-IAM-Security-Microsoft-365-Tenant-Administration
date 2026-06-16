@@ -215,13 +215,14 @@ Screenshots
 Figure 4.1 — Entra ID Security Group Directory
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/b3851f64-e5d4-4293-a996-44777d24cf88" width="850">
 </p>
+
 
 Figure 4.2 — Azure Portal Group Synchronization View
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src"https://github.com/user-attachments/assets/d063207c-7f13-4cab-b347-3839308212bb" width="850">
 </p>
 
 Figure 4.3 — SSPR Enablement Properties
