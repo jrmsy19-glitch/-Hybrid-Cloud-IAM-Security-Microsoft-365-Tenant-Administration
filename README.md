@@ -84,8 +84,9 @@ Screenshots
 Figure 1.1 — Entra ID User Creation Interface
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/8a88e2c9-e077-4621-ae06-f007ddf37036" width="850">
 </p>
+
 
 Figure 1.2 — Microsoft 365 Admin Center Active Users
 
@@ -127,7 +128,7 @@ Screenshots
 Figure 2.1 — Directory Query & Filtering Configuration
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/481395a3-6e00-4e49-abb2-c6f3333a1250" width="850">
 </p>
 
 Figure 2.2 — Duluth Office User Profile
