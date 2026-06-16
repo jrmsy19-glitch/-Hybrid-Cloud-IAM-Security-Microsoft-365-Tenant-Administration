@@ -90,8 +90,10 @@ Figure 1.1 — Entra ID User Creation Interface
 Figure 1.2 — Microsoft 365 Admin Center Active Users
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/e835004e-1f63-4d8e-8b36-8c867c3cee15"width="850">
 </p>
+
+
 
 Figure 1.3 — Azure Portal Directory Validation
 
@@ -173,8 +175,9 @@ Screenshots
 Figure 3.1 — Per-User MFA Enforcement Console
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/60204d90-a165-449b-97b5-4a4c7a419020" width="850">
 </p>
+
 
 ⸻
 
@@ -221,14 +224,18 @@ Figure 4.2 — Azure Portal Group Synchronization View
 Figure 4.3 — SSPR Enablement Properties
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/b3afc0e6-05b8-4f03-9145-11685dd19a55" width="850">
 </p>
+
 
 Figure 4.4 — Password Reset Notification Settings
 
 <p align="center">
-<img src="PASTE_IMAGE_LINK_HERE" width="850">
+<img src="https://github.com/user-attachments/assets/399d9257-03cb-4672-98d4-1fcec5340755" width="850">
 </p>
+
+
+
 
 Figure 4.5 — Administrator Authentication Policy Rules
 
