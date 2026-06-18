@@ -358,4 +358,4 @@ Aspiring Microsoft 365 Administrator | IT Support Professional | Cloud & Identit
 Connect With Me
 
 * LinkedIn: INSERT_LINKEDIN_URL
-
+https://www.linkedin.com/in/jamal-ramsey-9035a25a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
