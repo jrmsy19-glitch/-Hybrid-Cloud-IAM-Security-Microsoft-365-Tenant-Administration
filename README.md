@@ -1,6 +1,6 @@
-☁️ Hybrid Cloud IAM, Security & Microsoft 365 Tenant Administration
+## ☁️ Hybrid Cloud IAM, Security & Microsoft 365 Tenant Administration
 
-📋 Project Overview
+## 📋 Project Overview
 
 This project demonstrates the deployment, administration, and security hardening of a cloud-native Microsoft 365 tenant for Plush Realty Group (PRG).
 
@@ -10,7 +10,7 @@ This lab focuses on user lifecycle management, identity governance, authenticati
 
 ⸻
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 * Provision and manage cloud identities within Microsoft Entra ID
 * Configure organizational user attributes and branch office segmentation
@@ -22,7 +22,7 @@ This lab focuses on user lifecycle management, identity governance, authenticati
 
 ⸻
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Identity & Access Management
 
@@ -44,7 +44,7 @@ Security & Governance
 
 ⸻
 
-🏢 Enterprise Directory Topology
+## 🏢 Enterprise Directory Topology
 
 The tenant was structured to represent a growing real estate organization with multiple regional office locations. User objects were categorized using organizational metadata and location-based attributes to support administrative segmentation and future scalability.
 
@@ -58,7 +58,7 @@ Plush Realty Group Tenant (JRinc364.onmicrosoft.com)
 
 ⸻
 
-🚀 Implementation Phases
+## 🚀 Implementation Phases
 
 Phase 1 — Tenant Provisioning & Identity Deployment
 
@@ -203,7 +203,7 @@ SSPR Configuration Highlights
 * Administrative Reset Policies
 * Authentication Method Validation
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * Security Group Administration
 * Access Governance Preparation
@@ -263,7 +263,7 @@ Actions Performed
 * Revoked Active Sessions
 * Verified Directory Status Changes
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 * User Lifecycle Management
 * Incident Response Procedures
@@ -285,7 +285,7 @@ Figure 5.2 — Entra ID Disabled Account Validation
 </p>
 ⸻
 
-🔄 Cross-Portal Validation & Microsoft Cloud Integration
+## 🔄 Cross-Portal Validation & Microsoft Cloud Integration
 
 One of the primary goals of this project was to demonstrate an understanding of Microsoft’s centralized identity architecture.
 
@@ -302,7 +302,7 @@ This validation process demonstrates practical knowledge of Microsoft’s cloud 
 
 ⸻
 
-📈 Skills Demonstrated
+## 📈 Skills Demonstrated
 
 Identity & Access Management
 
@@ -334,7 +334,7 @@ Operational Support
 
 ⸻
 
-🏆 Professional Relevance
+## 🏆 Professional Relevance
 
 This project mirrors responsibilities commonly performed by:
 
@@ -349,7 +349,7 @@ The environment demonstrates hands-on experience with identity administration, s
 
 ⸻
 
-👤 Author
+## 👤 Author
 
 Jamal D. Ramsey
 
