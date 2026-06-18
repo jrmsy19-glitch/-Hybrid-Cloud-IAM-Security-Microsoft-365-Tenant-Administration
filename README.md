@@ -8,7 +8,7 @@ The environment was built using Microsoft Entra ID, Microsoft 365 Admin Center, 
 
 This lab focuses on user lifecycle management, identity governance, authentication security, self-service account recovery, security group administration, and employee offboarding procedures. Administrative actions were validated across multiple Microsoft management portals to demonstrate an understanding of Microsoft’s integrated cloud ecosystem and centralized identity architecture.
 
-⸻
+---
 
 ## 🎯 Project Objectives
 
@@ -20,7 +20,7 @@ This lab focuses on user lifecycle management, identity governance, authenticati
 * Simulate employee offboarding and account disablement procedures
 * Validate identity synchronization across Microsoft administrative portals
 
-⸻
+---
 
 ## 🛠️ Technologies Used
 
@@ -42,7 +42,7 @@ Security & Governance
 * Security Groups
 * User Lifecycle Management
 
-⸻
+---
 
 ## 🏢 Enterprise Directory Topology
 
@@ -56,7 +56,7 @@ Plush Realty Group Tenant (JRinc364.onmicrosoft.com)
     ├── 🏙️ Minneapolis Office
     └── ⛵ Rochester Office (Planned Expansion)
 
-⸻
+---
 
 ## 🚀 Implementation Phases
 
@@ -102,7 +102,7 @@ Figure 1.3 — Azure Portal Directory Validation
 <img src="https://github.com/user-attachments/assets/248e3c87-5911-40a1-8ac3-43e29d552ae3" width="850">
 </p>
 
-⸻
+---
 
 ## Phase 2 — Organizational Structure & Branch Segmentation
 
@@ -151,7 +151,7 @@ Figure 2.4 — Minneapolis Office User Profile
 <img src="https://github.com/user-attachments/assets/6d2d94fe-d9a9-4bb5-8ce3-ba9a41c98256" width="850">
 </p>
 
-⸻
+---
 
 ## Phase 3 — Identity Security & MFA Implementation
 
@@ -182,7 +182,7 @@ Figure 3.1 — Per-User MFA Enforcement Console
 </p>
 
 
-⸻
+---
 
 ## Phase 4 — Security Group Architecture & Self-Service Password Reset (SSPR)
 
@@ -246,7 +246,7 @@ Figure 4.5 — Administrator Authentication Policy Rules
 </p>
 
 
-⸻
+---
 
 ## Phase 5 — User Offboarding & Incident Response Simulation
 
@@ -283,7 +283,7 @@ Figure 5.2 — Entra ID Disabled Account Validation
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ba5fb750-7485-4a60-b370-44085375a1a1" width="850">
 </p>
-⸻
+---
 
 ## 🔄 Cross-Portal Validation & Microsoft Cloud Integration
 
@@ -300,7 +300,7 @@ Validation Examples
 
 This validation process demonstrates practical knowledge of Microsoft’s cloud identity ecosystem and highlights an understanding of how administrative changes propagate throughout enterprise services.
 
-⸻
+---
 
 ## 📈 Skills Demonstrated
 
@@ -332,7 +332,7 @@ Operational Support
 * Access Revocation
 * Cross-Platform Validation
 
-⸻
+---
 
 ## 🏆 Professional Relevance
 
@@ -347,7 +347,7 @@ This project mirrors responsibilities commonly performed by:
 
 The environment demonstrates hands-on experience with identity administration, security controls, user lifecycle management, and Microsoft cloud platform operations commonly encountered in enterprise environments.
 
-⸻
+---
 
 ## 👤 Author
 
