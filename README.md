@@ -60,7 +60,7 @@ Plush Realty Group Tenant (JRinc364.onmicrosoft.com)
 
 ## 🚀 Implementation Phases
 
-Phase 1 — Tenant Provisioning & Identity Deployment
+## Phase 1 — Tenant Provisioning & Identity Deployment
 
 Cloud-native user accounts were created directly within Microsoft Entra ID. Each account was configured with foundational identity attributes including:
 
@@ -104,7 +104,7 @@ Figure 1.3 — Azure Portal Directory Validation
 
 ⸻
 
-Phase 2 — Organizational Structure & Branch Segmentation
+## Phase 2 — Organizational Structure & Branch Segmentation
 
 Directory attributes were configured to simulate a multi-office enterprise environment. Users were assigned geographic and organizational metadata to represent employees working from different PRG locations.
 
@@ -153,7 +153,7 @@ Figure 2.4 — Minneapolis Office User Profile
 
 ⸻
 
-Phase 3 — Identity Security & MFA Implementation
+## Phase 3 — Identity Security & MFA Implementation
 
 To strengthen account security and reduce the risk of credential compromise, Multi-Factor Authentication (MFA) was enabled across tenant identities.
 
@@ -184,7 +184,7 @@ Figure 3.1 — Per-User MFA Enforcement Console
 
 ⸻
 
-Phase 4 — Security Group Architecture & Self-Service Password Reset (SSPR)
+## Phase 4 — Security Group Architecture & Self-Service Password Reset (SSPR)
 
 To support future Role-Based Access Control (RBAC) initiatives, departmental security groups were created and validated throughout the Microsoft ecosystem.
 
@@ -248,7 +248,7 @@ Figure 4.5 — Administrator Authentication Policy Rules
 
 ⸻
 
-Phase 5 — User Offboarding & Incident Response Simulation
+## Phase 5 — User Offboarding & Incident Response Simulation
 
 A user offboarding scenario was conducted to simulate a compromised account or employee termination event.
 
@@ -358,4 +358,4 @@ Aspiring Microsoft 365 Administrator | IT Support Professional | Cloud & Identit
 Connect With Me
 
 * LinkedIn: INSERT_LINKEDIN_URL
-* GitHub: INSERT_GITHUB_URL
+
